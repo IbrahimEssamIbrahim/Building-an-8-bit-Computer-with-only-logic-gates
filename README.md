@@ -18,4 +18,4 @@ The steps I followed to accomplish this project included:
 * Exploring Central Processing Units (CPUs).
 
 If you are interested in undertaking this project, I highly recommend you watch Ben Eater's YouTube playlist on this subject. 
-![Final V1 design (with CPU)-1](https://github.com/IbrahimEssamIbrahim/Building-an-8-bit-Computer-with-only-logic-gates/assets/141848382/6f9abe68-7f1b-4492-ab7f-69925607e736)
+![Final V1 design (with CPU)-1](/Final%20V1%20design%20(with%20CPU)-1.png))
